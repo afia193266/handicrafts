@@ -1,0 +1,290 @@
+[
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5634" },
+    "name": "Upohar BD",
+    "logo": "https://www.upoharbd.com/images/UpoharBD_logo.png",
+    "yearsOfOperation": 5,
+    "numberOfProducts": 50,
+    "likes": 1200,
+    "products": ["Home photo frame", "Brass Candle Stand", "Corner stand"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5635" },
+    "name": "Crafts of Bengal",
+    "logo": "https://example.com/logos/crafts_of_bengal.png",
+    "yearsOfOperation": 7,
+    "numberOfProducts": 40,
+    "likes": 1500,
+    "products": ["Bamboo Basket", "Jute Bag", "Handmade Jewelry", "Clay Pottery", "Wooden Toys"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5636" },
+    "name": "Artisan's Haven",
+    "logo": "https://example.com/logos/artisans_haven.png",
+    "yearsOfOperation": 10,
+    "numberOfProducts": 80,
+    "likes": 2000,
+    "products": ["Terracotta Vase", "Handwoven Blanket", "Leather Wallet", "Wood Carvings", "Metal Sculptures"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5637" },
+    "name": "Handmade Treasures",
+    "logo": "https://example.com/logos/handmade_treasures.png",
+    "yearsOfOperation": 3,
+    "numberOfProducts": 35,
+    "likes": 900,
+    "products": ["Embroidered Cushion Cover", "Recycled Paper Notebooks", "Shell Jewelry", "Coconut Shell Bowls", "Handpainted Wall Art"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5638" },
+    "name": "Bengali Heritage Crafts",
+    "logo": "https://example.com/logos/bengali_heritage_crafts.png",
+    "yearsOfOperation": 15,
+    "numberOfProducts": 120,
+    "likes": 2500,
+    "products": ["Traditional Sarees", "Handwoven Rugs", "Clay Dolls", "Jute Wall Hangings", "Bamboo Lamp Shades"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5639" },
+    "name": "Deshi Craftworks",
+    "logo": "https://example.com/logos/deshi_craftworks.png",
+    "yearsOfOperation": 8,
+    "numberOfProducts": 60,
+    "likes": 1800,
+    "products": ["Wooden Bangles", "Handloom Fabric", "Terracotta Jewelry", "Cane Furniture", "Recycled Glass Vases"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563a" },
+    "name": "Ruposhi Bangla Handicrafts",
+    "logo": "https://example.com/logos/ruposhi_bangla.png",
+    "yearsOfOperation": 12,
+    "numberOfProducts": 90,
+    "likes": 2200,
+    "products": ["Jamdani Saree", "Nakshi Kantha", "Leather Handbag", "Handmade Ceramics", "Patachitra Paintings"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563b" },
+    "name": "Mrittika Crafts",
+    "logo": "https://example.com/logos/mrittika_crafts.png",
+    "yearsOfOperation": 6,
+    "numberOfProducts": 45,
+    "likes": 1300,
+    "products": ["Clay Diya", "Jute Coasters", "Handwoven Table Runner", "Coconut Shell Artifacts", "Bamboo Wall Decor"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563c" },
+    "name": "Dhaka Handicrafts",
+    "logo": "https://example.com/logos/dhaka_handicrafts.png",
+    "yearsOfOperation": 9,
+    "numberOfProducts": 75,
+    "likes": 1700,
+    "products": ["Wooden Photo Frame", "Batik Print Fabric", "Leather Sandals", "Clay Pottery", "Jute Basket"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563d" },
+    "name": "Sundarban Crafts",
+    "logo": "https://example.com/logos/sundarban_crafts.png",
+    "yearsOfOperation": 11,
+    "numberOfProducts": 65,
+    "likes": 2100,
+    "products": ["Palm Leaf Weavings", "Shell Craft", "Handmade Soap", "Jute Wall Art", "Bamboo Cutlery"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563e" },
+    "name": "Bangla Artisans",
+    "logo": "https://example.com/logos/bangla_artisans.png",
+    "yearsOfOperation": 4,
+    "numberOfProducts": 50,
+    "likes": 1100,
+    "products": ["Handwoven Scarves", "Clay Masks", "Wooden Toys", "Recycled Paper Jewelry", "Jute Tote Bags"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d563f" },
+    "name": "Bengal Craft House",
+    "logo": "https://example.com/logos/bengal_craft_house.png",
+    "yearsOfOperation": 7,
+    "numberOfProducts": 55,
+    "likes": 1600,
+    "products": ["Kantha Stitch Quilts", "Terracotta Pots", "Bamboo Baskets", "Wooden Cutlery", "Leather Bracelets"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5640" },
+    "name": "Chittagong Handicrafts",
+    "logo": "https://example.com/logos/chittagong_handicrafts.png",
+    "yearsOfOperation": 13,
+    "numberOfProducts": 85,
+    "likes": 2400,
+    "products": ["Jute Rugs", "Bamboo Mats", "Clay Sculptures", "Handmade Notebooks", "Leather Pouches"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5641" },
+    "name": "Bengal Handloom",
+    "logo": "https://example.com/logos/bengal_handloom.png",
+    "yearsOfOperation": 6,
+    "numberOfProducts": 60,
+    "likes": 1800,
+    "products": ["Handwoven Shawls", "Bamboo Curtains", "Wooden Candle Holders", "Clay Ornaments", "Jute Table Mats"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5642" },
+    "name": "Bangla Craft Studio",
+    "logo": "https://example.com/logos/bangla_craft_studio.png",
+    "yearsOfOperation": 9,
+    "numberOfProducts": 70,
+    "likes": 1900,
+    "products": ["Terracotta Tiles", "Handpainted Pottery", "Leather Keychains", "Wooden Coasters", "Bamboo Wind Chimes"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5643" },
+    "name": "Jamdani Craftworks",
+    "logo": "https://example.com/logos/jamdani_craftworks.png",
+    "yearsOfOperation": 5,
+    "numberOfProducts": 45,
+    "likes": 1400,
+    "products": ["Jamdani Saree", "Clay Lamps", "Handmade Journals", "Wooden Figurines", "Jute Wall Panels"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5644" },
+    "name": "Purbasha Handicrafts",
+    "logo": "https://example.com/logos/purbasha_handicrafts.png",
+    "yearsOfOperation": 8,
+    "numberOfProducts": 50,
+    "likes": 1500,
+    "products": ["Bamboo Baskets", "Terracotta Bowls", "Handwoven Tablecloths", "Jute Wall Decor", "Wooden Kitchen Utensils"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5645" },
+    "name": "Deshi Treasures",
+    "logo": "https://example.com/logos/deshi_treasures.png",
+    "yearsOfOperation": 10,
+    "numberOfProducts": 65,
+    "likes": 2000,
+    "products": ["Embroidered Cushions", "Handmade Soap", "Clay Pots", "Jute Handbags", "Wooden Wall Art"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5646" },
+    "name": "Bangladesh Craft Emporium",
+    "logo": "https://example.com/logos/bangladesh_craft_emporium.png",
+    "yearsOfOperation": 14,
+    "numberOfProducts": 100,
+    "likes": 3000,
+    "products": ["Handwoven Rugs", "Terracotta Sculptures", "Bamboo Chairs", "Wooden Bowls", "Leather Journals"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5647" },
+    "name": "Artisan's Craft",
+    "logo": "https://example.com/logos/artisans_craft.png",
+    "yearsOfOperation": 6,
+    "numberOfProducts": 55,
+    "likes": 1600,
+    "products": ["Handloom Scarves", "Terracotta Pots", "Wooden Jewelry", "Jute Wall Hangings", "Clay Ornaments"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5648" },
+    "name": "Crafts of Dhaka",
+    "logo": "https://example.com/logos/crafts_of_dhaka.png",
+    "yearsOfOperation": 7,
+    "numberOfProducts": 60,
+    "likes": 1700,
+    "products": ["Wooden Toys", "Jute Bags", "Handwoven Curtains", "Clay Vases", "Leather Wallets"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5649" },
+    "name": "Handicrafts BD",
+    "logo": "https://example.com/logos/handicrafts_bd.png",
+    "yearsOfOperation": 11,
+    "numberOfProducts": 80,
+    "likes": 2100,
+    "products": ["Jute Rugs", "Clay Sculptures", "Handmade Paper Notebooks", "Wooden Utensils", "Leather Handbags"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564a" },
+    "name": "Rural Craftworks",
+    "logo": "https://example.com/logos/rural_craftworks.png",
+    "yearsOfOperation": 9,
+    "numberOfProducts": 70,
+    "likes": 1900,
+    "products": ["Handwoven Shawls", "Bamboo Mats", "Terracotta Jewelry", "Jute Wall Decor", "Wooden Sculptures"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564b" },
+    "name": "Crafted in Bangladesh",
+    "logo": "https://example.com/logos/crafted_in_bangladesh.png",
+    "yearsOfOperation": 5,
+    "numberOfProducts": 50,
+    "likes": 1500,
+    "products": ["Jute Coasters", "Handloom Fabric", "Wooden Toys", "Clay Lamps", "Leather Belts"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564c" },
+    "name": "Village Crafts BD",
+    "logo": "https://example.com/logos/village_crafts_bd.png",
+    "yearsOfOperation": 8,
+    "numberOfProducts": 60,
+    "likes": 1800,
+    "products": ["Bamboo Handicrafts", "Clay Pots", "Wooden Jewelry", "Jute Wall Panels", "Handwoven Rugs"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564d" },
+    "name": "Bengal Craftworks",
+    "logo": "https://example.com/logos/bengal_craftworks.png",
+    "yearsOfOperation": 10,
+    "numberOfProducts": 75,
+    "likes": 2200,
+    "products": ["Terracotta Pots", "Jute Bags", "Wooden Sculptures", "Clay Ornaments", "Handwoven Tablecloths"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564e" },
+    "name": "Crafts of Chittagong",
+    "logo": "https://example.com/logos/crafts_of_chittagong.png",
+    "yearsOfOperation": 7,
+    "numberOfProducts": 55,
+    "likes": 1600,
+    "products": ["Jute Rugs", "Clay Sculptures", "Handmade Paper Notebooks", "Wooden Utensils", "Leather Wallets"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d564f" },
+    "name": "Deshi Artisans",
+    "logo": "https://example.com/logos/deshi_artisans.png",
+    "yearsOfOperation": 6,
+    "numberOfProducts": 50,
+    "likes": 1400,
+    "products": ["Handwoven Shawls", "Bamboo Mats", "Terracotta Jewelry", "Jute Wall Decor", "Wooden Sculptures"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5650" },
+    "name": "Rangpur Crafts",
+    "logo": "https://example.com/logos/rangpur_crafts.png",
+    "yearsOfOperation": 8,
+    "numberOfProducts": 65,
+    "likes": 1800,
+    "products": ["Bamboo Handicrafts", "Clay Pots", "Wooden Jewelry", "Jute Wall Panels", "Handwoven Rugs"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5651" },
+    "name": "Bangladesh Handicraft Center",
+    "logo": "https://example.com/logos/bangladesh_handicraft_center.png",
+    "yearsOfOperation": 9,
+    "numberOfProducts": 70,
+    "likes": 1900,
+    "products": ["Jute Rugs", "Clay Sculptures", "Handmade Paper Notebooks", "Wooden Utensils", "Leather Wallets"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5652" },
+    "name": "Handmade in Bangladesh",
+    "logo": "https://example.com/logos/handmade_in_bangladesh.png",
+    "yearsOfOperation": 7,
+    "numberOfProducts": 60,
+    "likes": 1700,
+    "products": ["Handwoven Shawls", "Bamboo Mats", "Terracotta Jewelry", "Jute Wall Decor", "Wooden Sculptures"]
+  },
+  {
+    "_id": { "$oid": "66d30aedf1c21b55fd3d5653" },
+    "name": "Craftsmen of Bangladesh",
+    "logo": "https://example.com/logos/craftsmen_of_bangladesh.png",
+    "yearsOfOperation": 10,
+    "numberOfProducts": 80,
+    "likes": 2100,
+    "products": ["Jute Coasters", "Handloom Fabric", "Wooden Toys", "Clay Lamps", "Leather Belts"]
+  }
+]
